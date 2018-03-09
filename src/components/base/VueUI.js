@@ -123,7 +123,7 @@ VueUI.install = function (Vue){
   })
 
 
-}
+};
 
 
 export default VueUI
